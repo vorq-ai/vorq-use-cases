@@ -32,9 +32,10 @@ ETH; the network pays the gas.
 
 ## Two tiers
 
-- **Async** finishes within an hour. Use it when the next step waits on the answer:
+- **Async** finishes within minutes, an hour at the latest. Use it when the next step waits on the answer:
   agents, chained pipelines, anything that runs in rounds.
-- **Batch** finishes within a day at the lowest price. Use it for a single pass over a
+- **Batch** takes from minutes to several hours, a day at the latest, at the lowest
+  price. Use it for a single pass over a
   lot of work that nobody is waiting on.
 
 Every example is one short `main.py` with its tier, model and sizes written at the top.
