@@ -1,0 +1,17 @@
+[
+  {
+    "task": "coding",
+    "use_for": "Writing, debugging or refactoring source code.",
+    "model": "moonshotai/kimi-k3"
+  },
+  {
+    "task": "analysis",
+    "use_for": "Reasoning, comparing options, long-form writing.",
+    "model": "z-ai/glm-5.3"
+  },
+  {
+    "task": "simple",
+    "use_for": "A quick fact, translation, rewrite or short summary.",
+    "model": "z-ai/glm-5.3-flash"
+  }
+]

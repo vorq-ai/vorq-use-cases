@@ -1,0 +1,7 @@
+[project]
+name = "vorq-synthetic-data"
+version = "0.1.0"
+description = "Generate, score and filter fine-tuning conversations"
+requires-python = ">=3.11"
+license = "Apache-2.0"
+dependencies = ["vorq>=0.1.0rc3"]

@@ -1,0 +1,5 @@
+Write a Python function that merges overlapping intervals, with tests for the edge cases.
+What is the capital of Australia?
+Write a two-page analysis of the risks of moving our warehouse to another city.
+Rewrite this sentence to be more polite: "Send me the report now."
+Find the bug: for (i = 0; i <= arr.length; i++) total += arr[i];

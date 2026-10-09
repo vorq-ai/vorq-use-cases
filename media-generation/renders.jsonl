@@ -1,0 +1,4 @@
+{"model": "bytedance/seedance-2", "input": {"prompt": "a slow pan across a mountain valley at dawn, mist in the pines", "resolution": "720p", "aspect_ratio": "16:9", "duration": 4}}
+{"model": "bytedance/seedance-2", "input": {"prompt": "a ceramic cup of coffee on a wooden table, steam rising, macro shot", "resolution": "720p", "aspect_ratio": "16:9", "duration": 4}}
+{"model": "bytedance/seedance-2", "input": {"prompt": "a paper boat drifting down a rain gutter, low angle", "resolution": "720p", "aspect_ratio": "9:16", "duration": 4}}
+{"model": "bytedance/seedance-2", "input": {"prompt": "city lights seen through a rainy window at night, shallow focus", "resolution": "720p", "aspect_ratio": "16:9", "duration": 4}}

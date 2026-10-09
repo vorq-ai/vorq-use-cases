@@ -1,0 +1,7 @@
+[project]
+name = "vorq-model-router"
+version = "0.1.0"
+description = "Route each request to the model a local decision model picks"
+requires-python = ">=3.11"
+license = "Apache-2.0"
+dependencies = ["vorq>=0.1.0rc3", "httpx>=0.27"]
