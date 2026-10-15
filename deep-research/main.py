@@ -10,7 +10,7 @@ from pathlib import Path
 import httpx
 import vorq
 
-MODEL = "moonshotai/kimi-k3"
+MODEL = "z-ai/glm-5.3"
 SLA = "async"  # rounds chain: each one is built from the answers of the last
 
 BREADTH = 4  # sub-questions from the plan

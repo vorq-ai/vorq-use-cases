@@ -10,7 +10,7 @@ from pathlib import Path
 
 import vorq
 
-MODEL = "moonshotai/kimi-k3"
+MODEL = "z-ai/glm-5.3"
 SLA = "batch"  # one pass over a corpus, nobody waiting on a single row
 RUNS = 2  # answers per document; agreement between them is the confidence signal
 

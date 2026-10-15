@@ -29,7 +29,7 @@ uv run main.py
 describing it and the model that takes it.
 
 ```json
-{"task": "coding", "use_for": "Writing, debugging or refactoring source code.", "model": "moonshotai/kimi-k3"}
+{"task": "coding", "use_for": "Writing, debugging or refactoring source code.", "model": "z-ai/glm-5.3"}
 ```
 
 Laya chooses between the `task` names by reading the `use_for` lines, so both are plain

@@ -8,7 +8,7 @@ from pathlib import Path
 
 import vorq
 
-MODEL = "moonshotai/kimi-k3"
+MODEL = "z-ai/glm-5.3"
 SLA = "async"  # each generation is built from the previous one's scores
 
 GENERATIONS = 3
