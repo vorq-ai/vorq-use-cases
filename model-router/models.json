@@ -2,12 +2,12 @@
   {
     "task": "coding",
     "use_for": "Writing, debugging or refactoring source code.",
-    "model": "z-ai/glm-5.3"
+    "model": "stepfun-ai/step-5-preview"
   },
   {
     "task": "analysis",
     "use_for": "Reasoning, comparing options, long-form writing.",
-    "model": "z-ai/glm-5.3"
+    "model": "stepfun-ai/step-5-preview"
   },
   {
     "task": "simple",

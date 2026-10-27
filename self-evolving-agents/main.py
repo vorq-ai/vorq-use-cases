@@ -8,7 +8,7 @@ from pathlib import Path
 
 import vorq
 
-MODEL = "z-ai/glm-5.3"
+MODEL = "stepfun-ai/step-5-preview"
 SLA = "async"  # each generation is built from the previous one's scores
 
 GENERATIONS = 3

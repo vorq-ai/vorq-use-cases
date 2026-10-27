@@ -10,7 +10,7 @@ from pathlib import Path
 import httpx
 import vorq
 
-MODEL = "z-ai/glm-5.3"
+MODEL = "stepfun-ai/step-5-preview"
 SLA = "async"  # rounds chain: each one is built from the answers of the last
 
 BREADTH = 4  # sub-questions from the plan
