@@ -15,7 +15,7 @@ Outputs land in `out/000/`, `out/001/`, ... in the order of the file.
 
 ## What you need
 
-Python 3.11+ and a wallet holding test USDC (see the [repo README](../README.md)).
+Python 3.11+ and a wallet holding USDC on Base (see the [repo README](../README.md)).
 
 ## The renders file
 

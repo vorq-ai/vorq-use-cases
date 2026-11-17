@@ -19,7 +19,7 @@ uv run main.py
 
 ## What you need
 
-- Python 3.11+ and a wallet holding test USDC (see the [repo README](../README.md)).
+- Python 3.11+ and a wallet holding USDC on Base (see the [repo README](../README.md)).
 - [Ollama](https://ollama.com) 0.40 or later, running locally. The Laya model is an
   846 MB download.
 

@@ -26,9 +26,8 @@ export VORQ_WALLET_KEY=0x...      # a dedicated wallet, not your main one
 uv run main.py                    # or: pip install vorq && python main.py
 ```
 
-VORQ runs on Base Sepolia today and jobs are paid in test USDC. Get some from
-[faucet.circle.com](https://faucet.circle.com) (choose USDC on Base Sepolia). You need no
-ETH; the network pays the gas.
+VORQ runs on Base and jobs are paid in USDC on Base. Buy or withdraw USDC to the Base network,
+or bridge it. You need no ETH; the network pays the gas.
 
 ## Two tiers
 

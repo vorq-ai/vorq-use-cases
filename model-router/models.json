@@ -12,6 +12,6 @@
   {
     "task": "simple",
     "use_for": "A quick fact, translation, rewrite or short summary.",
-    "model": "z-ai/glm-5.3-flash"
+    "model": "zai-org/glm-5.3-flash:fp8"
   }
 ]

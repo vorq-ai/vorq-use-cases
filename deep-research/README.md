@@ -16,7 +16,7 @@ The report lands in `report.md`.
 
 ## What you need
 
-Python 3.11+ and a wallet holding test USDC (see the [repo README](../README.md)).
+Python 3.11+ and a wallet holding USDC on Base (see the [repo README](../README.md)).
 Sources come from Wikipedia's public API, so there is no search key to get.
 
 ## What happens
