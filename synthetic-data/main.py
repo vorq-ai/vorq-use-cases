@@ -7,7 +7,7 @@ from pathlib import Path
 
 import vorq
 
-MODEL = "stepfun-ai/step-5-preview"
+MODEL = "stepfun-ai/step-5-preview:nvfp4"
 SLA = "async"  # three chained stages, each waiting on the one before
 
 TOPICS = ["billing dispute", "late delivery", "login problem", "product defect", "plan upgrade"]

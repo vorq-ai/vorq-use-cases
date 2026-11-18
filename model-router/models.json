@@ -2,12 +2,12 @@
   {
     "task": "coding",
     "use_for": "Writing, debugging or refactoring source code.",
-    "model": "stepfun-ai/step-5-preview"
+    "model": "stepfun-ai/step-5-preview:nvfp4"
   },
   {
     "task": "analysis",
     "use_for": "Reasoning, comparing options, long-form writing.",
-    "model": "stepfun-ai/step-5-preview"
+    "model": "stepfun-ai/step-5-preview:nvfp4"
   },
   {
     "task": "simple",

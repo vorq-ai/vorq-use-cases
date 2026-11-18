@@ -29,7 +29,7 @@ uv run main.py
 describing it and the model that takes it.
 
 ```json
-{"task": "coding", "use_for": "Writing, debugging or refactoring source code.", "model": "stepfun-ai/step-5-preview"}
+{"task": "coding", "use_for": "Writing, debugging or refactoring source code.", "model": "stepfun-ai/step-5-preview:nvfp4"}
 ```
 
 Laya chooses between the `task` names by reading the `use_for` lines, so both are plain
