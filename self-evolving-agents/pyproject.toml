@@ -4,4 +4,4 @@ version = "0.1.0"
 description = "Evolve a system prompt against a labelled task set"
 requires-python = ">=3.11"
 license = "Apache-2.0"
-dependencies = ["vorq>=0.2.0"]
+dependencies = ["vorq>=0.2.2"]
